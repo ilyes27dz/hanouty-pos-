@@ -1,15 +1,18 @@
 {
-  "version": "1.0.8",
+  "version": "10.0.0",
   "descriptionAr": "🎉 الإصدار الأول من نظام hanouty dz",
-  "descriptionFr": "🎉 Première version du système Hanouty DZ",
-  "downloadUrl": "",
+  "descriptionFr": ""🎉 Nouvelle mise à jour v10.0.0\n\n✅ Corrections et améliorations",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/10.0.0/Hanouty.DZ.Setup.10.0.0.exe",
   "releaseDate": "2025-10-28",
   "changes": [
     "نظام إدارة المنتجات الكامل",
     "نظام التفعيل والتجربة",
     "إشعارات المخزون الذكية",
     "النسخ الاحتياطي التلقائي",
-    "واجهة عربية/فرنسية"
+    "واجهة عربية/فرنسية",
+    "إصلاح مشكلة النافذة",
+    "تحسينات في الأداء",
+    "إصلاح أخطاء صغيرة"
   ]
 }
 
