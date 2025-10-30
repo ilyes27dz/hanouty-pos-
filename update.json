@@ -1,14 +1,16 @@
 {
-  "version": "10.0.1",
-  "descriptionAr": "🎉 Hanouty DZ v10.0.1 - إصدار محسّن\n\n✅ إزالة DevTools\n✅ تحسينات الأداء\n✅ إصلاح الأخطاء البسيطة",
-  "descriptionFr": "🎉 Hanouty DZ v10.0.1 - Édition Optimisée\n\n✅ Suppression DevTools\n✅ Améliorations de performance\n✅ Corrections de bugs",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.1/Hanouty.DZ.Setup.10.0.1.exe",
+  "version": "10.0.2",
+  "descriptionAr": "🎉 Hanouty DZ v10.0.2 - إصلاحات نظام التفعيل\n\n✅ إصلاح نظام التجربة والتفعيل\n✅ تحسين نظام التخزين\n✅ إصلاح localStorage في الإنتاج\n✅ قفل PIN محسّن مع Snackbar\n✅ دعم البريد الإلكتروني في استعادة PIN",
+  "descriptionFr": "🎉 Hanouty DZ v10.0.2 - Corrections du Système d'Activation\n\n✅ Corrections du système d'essai et d'activation\n✅ Améliorations du stockage\n✅ Corrections de localStorage en production\n✅ Verrouillage PIN amélioré\n✅ Support email pour la récupération du PIN",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.2/Hanouty.DZ.Setup.10.0.2.exe",
   "releaseDate": "2025-10-30",
   "changes": [
-    "إزالة DevTools من النسخة النهائية",
-    "تحسينات الأداء",
-    "إصلاح الأخطاء البسيطة",
-    "نظام إدارة المنتجات الكامل",
-    "نظام التفعيل والتجربة الآمن"
+    "✅ إصلاح نظام التجربة والتفعيل",
+    "✅ تحسين localStorage الموحد",
+    "✅ إصلاح عرض النسخة الصحيحة",
+    "✅ تحسين نظام الـ Trial",
+    "✅ قفل PIN محسّن مع رسائل Snackbar",
+    "✅ دعم البريد الإلكتروني في استعادة PIN",
+    "✅ إصلاح الأداء والسرعة"
   ]
 }
