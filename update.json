@@ -1,5 +1,5 @@
 {
-  "version": "10.0.2",
+  "version": "1.0.0",
   "descriptionAr": "🎉 Hanouty DZ v10.0.2 - إصلاحات نظام التفعيل\n\n✅ إصلاح نظام التجربة والتفعيل\n✅ تحسين نظام التخزين\n✅ إصلاح localStorage في الإنتاج\n✅ قفل PIN محسّن مع Snackbar\n✅ دعم البريد الإلكتروني في استعادة PIN",
   "descriptionFr": "🎉 Hanouty DZ v10.0.2 - Corrections du Système d'Activation\n\n✅ Corrections du système d'essai et d'activation\n✅ Améliorations du stockage\n✅ Corrections de localStorage en production\n✅ Verrouillage PIN amélioré\n✅ Support email pour la récupération du PIN",
   "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.2/Hanouty.DZ.Setup.10.0.2.exe",
