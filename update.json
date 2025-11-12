@@ -5,7 +5,11 @@
   "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.3/Hanouty.DZ.Setup.10.0.3.exe",
   "releaseDate": "2025-11-12",
   "changes": [
-    
+    "✅ إصلاح مشكلة trialDays is not defined",
+    "✅ تحسين دالة generateCode للأكواد التجريبية",
+    "✅ إصلاح API الخاص بإنشاء الأكواد",
+    "✅ تحسين التحقق من رقم الجهاز (Machine ID)",
+    "✅ إصلاحات في نظام التفعيل والتجريب",
     "✅ تحسينات عامة في الأداء"
   ]
 }
