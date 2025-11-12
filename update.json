@@ -1,16 +1,11 @@
 {
-  "version": "1.0.0",
-  "descriptionAr": "🎉 Hanouty DZ v1.0.0 - إصلاحات نظام التفعيل\n\n✅ إصلاح نظام التجربة والتفعيل\n✅ تحسين نظام التخزين\n✅ إصلاح localStorage في الإنتاج\n✅ قفل PIN محسّن مع Snackbar\n✅ دعم البريد الإلكتروني في استعادة PIN",
-  "descriptionFr": "🎉 Hanouty DZ v1.0.0- Corrections du Système d'Activation\n\n✅ Corrections du système d'essai et d'activation\n✅ Améliorations du stockage\n✅ Corrections de localStorage en production\n✅ Verrouillage PIN amélioré\n✅ Support email pour la récupération du PIN",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.2/Hanouty.DZ.Setup.10.0.2.exe",
-  "releaseDate": "2025-10-30",
+  "version": "10.0.3",
+  "descriptionAr": "🎉 Hanouty DZ v10.0.3 - إصلاح نظام الأكواد التجريبية\n\n✅ إصلاح مشكلة trialDays في API\n✅ تحسين نظام توليد الأكواد التجريبية\n✅ إصلاح الأكواد المرتبطة برقم الجهاز\n✅ تحسينات في الأداء والاستقرار",
+  "descriptionFr": "🎉 Hanouty DZ v10.0.3 - Correction du Système de Codes d'Essai\n\n✅ Correction du problème trialDays dans l'API\n✅ Amélioration de la génération des codes d'essai\n✅ Correction des codes liés à l'ID machine\n✅ Améliorations de performance et de stabilité",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.3/Hanouty.DZ.Setup.10.0.3.exe",
+  "releaseDate": "2025-11-12",
   "changes": [
-    "✅ إصلاح نظام التجربة والتفعيل",
-    "✅ تحسين localStorage الموحد",
-    "✅ إصلاح عرض النسخة الصحيحة",
-    "✅ تحسين نظام الـ Trial",
-    "✅ قفل PIN محسّن مع رسائل Snackbar",
-    "✅ دعم البريد الإلكتروني في استعادة PIN",
-    "✅ إصلاح الأداء والسرعة"
+    
+    "✅ تحسينات عامة في الأداء"
   ]
 }
