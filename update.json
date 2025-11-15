@@ -1,5 +1,5 @@
 {
-  "version": "10.0.3",
+  "version": "1.0.0",
   "descriptionAr": "🎉 Hanouty DZ v10.0.3 - إصلاح نظام الأكواد التجريبية\n\n✅ إصلاح مشكلة trialDays في API\n✅ تحسين نظام توليد الأكواد التجريبية\n✅ إصلاح الأكواد المرتبطة برقم الجهاز\n✅ تحسينات في الأداء والاستقرار",
   "descriptionFr": "🎉 Hanouty DZ v10.0.3 - Correction du Système de Codes d'Essai\n\n✅ Correction du problème trialDays dans l'API\n✅ Amélioration de la génération des codes d'essai\n✅ Correction des codes liés à l'ID machine\n✅ Améliorations de performance et de stabilité",
   "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v10.0.3/Hanouty.DZ.Setup.10.0.3.exe",
