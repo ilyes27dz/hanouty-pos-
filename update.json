@@ -1,12 +1,14 @@
 {
-  "version": "1.0.0",
-  "descriptionAr": "✨ Hanouty DZ v1.0.0 - النسخة الأخيرة المحسنة",
-  "descriptionFr": "✨ Hanouty DZ v1.0.0 - Dernière version améliorée",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/1.0.0/HANOUTY.POS.DZ.Setup.1.0.2-x64.exe",
-  "releaseDate": "2025-11-18",
+  "version": "1.0.3",
+  "descriptionAr": "🚀 HANOUTY POS DZ — الإصدار v1.0.3\n✅ إصلاحات جوهرية في الطباعة والديون وتفعيل البرنامج\n🔄 نظام التحديث التلقائي مفعل الآن!",
+  "descriptionFr": "🚀 HANOUTY POS DZ — Version v1.0.3\n✅ Corrections majeures (Impression, Dettes, Activation)\n🔄 Système de mise à jour automatique activé!",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/v1.0.3/HANOUTY.POS.DZ.Setup.1.0.3-x64.exe",
+  "releaseDate": "2026-04-18",
   "changes": [
-    "🔹 النسخة الأخيرة المحسنة مع إصلاحات وتحسينات عامة"
+    "✅ إصلاح ديون الزبائن: تحديث رصيد الدين فوراً عند البيع بالآجل",
+    "🖨️ إصلاح الطباعة: حل مشكلة الأوراق الفارغة في الطابعات الحرارية (80mm / 58mm)",
+    "🧾 تحسين وصل الشراء: إعادة تنسيق وصل الشراء ليكون أكثر وضوحاً",
+    "🔒 تحسين التفعيل: تعزيز نظام التفعيل لضمان استقرار الرخصة",
+    "🔄 نظام التحديث: يدعم الآن الكشف التلقائي عن النسخ الجديدة"
   ]
 }
-
-
