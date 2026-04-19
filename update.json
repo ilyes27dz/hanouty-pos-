@@ -1,15 +1,14 @@
 {
-  "version": "1.2.1",
-  "descriptionAr": "🚀 HANOUTY POS DZ — التحديث الذهبي v1.2.1\n✅ إصلاح شامل لنظام التحديث والواجهة الاحترافية\n📊 إحصائيات تفاعلية وكشف تفصيلي للأرباح\n🔒 ميزة الخصوصية الفورية والأيقونة الرسمية الجديدة",
-  "descriptionFr": "🚀 HANOUTY POS DZ — Version Gold v1.2.1\n✅ Correction complète de l'auto-update et interface Pro\n📊 Statistiques interactives et détails des profits\n🔒 Mode confidentialité et nouvelle icône officielle",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/1.2.1/HANOUTY.POS.DZ.Setup.1.2.1-x64.exe",
+  "version": "1.2.2",
+  "descriptionAr": "🚀 HANOUTY POS DZ — نسخة الشركات الكبرى v1.2.2\n✅ تصميم وطباعة فواتير A4 بشكل ملكي واحترافي لامثيل له\n📥 نظام تحديثات داخلي ذكي ومستقل بشريط تقدم متطور\n⚙️ إصلاح جذري لمحرك معاينة الطباعة لجميع المقاسات",
+  "descriptionFr": "🚀 HANOUTY POS DZ — Édition Enterprise v1.2.2\n✅ Factures A4 premium redesign (Grilles & SVGs complets)\n📥 Système de mise à jour interne avec barre de progression\n⚙️ Correction majeure du moteur d'aperçu d'impression",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/1.2.2/HANOUTY.POS.DZ.Setup.1.2.2-x64.exe",
   "releaseDate": "2026-04-19",
   "changes": [
-    "🛠️ إصلاح نظام التحديث: الزر الآن يعمل بشكل آلي كامل وبدون أخطاء",
-    "🎨 واجهة تثبيت جديدة: صور خلفية وبانر احترافي أثناء التثبيت",
-    "📊 إحصائيات تفاعلية: بطاقات ذكية مضيئة تتفاعل مع المستخدم في الواجهة الرئيسية",
-    "💰 تفاصيل الأرباح: إمكانية الضغط على الأرباح لمعرفة فائدة كل منتج داخل كل فاتورة بدقة",
-    "🔒 زر الخصوصية: إضافة زر لإخفاء وإظهار الإحصائيات الحساسة بلمسة واحدة",
-    "⚙️ استقرار تام: معالجة كافة الأخطاء السابقة وتحسين سرعة استجابة التقارير المالية"
+    "📥 نظام التحديث الداخلي (In-App Updates): تحميل التحديثات الآن يتم كلياً داخل نافذة جذابة في البرنامج مع شريط تقدم ودون مستعرضات مزعجة",
+    "📄 فواتير A4 ملكية: إعادة تصميم نموذج قالب A4 من الصفر، الآن يشمل أيقونات ديناميكية (SVG) وبطاقات عصرية وحواف انسيابية تعكس الطابع المؤسساتي",
+    "🖨️ إصلاح أبعاد معاينة الطباعة: المستندات الكبيرة (A4) تأخذ الآن حجمها الطبيعي والصحيح للرؤية بوضوح ولا تنحصر في عرض الطابعة الحرارية",
+    "🚀 تحسينات متقدمة في سرعة التجاوب وثبات الواجهة والبيانات",
+    "⚙️ استقرار تام للنسخ المثبتة السابقة في التعرف وتلقي التحديث الجديد تلقائياً"
   ]
 }
