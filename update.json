@@ -1,15 +1,11 @@
 {
-  "version": "1.2.1",
-  "descriptionAr": "🚀 HANOUTY POS DZ — التحديث الذهبي v1.2.1\n✅ إصلاح شامل لنظام التحديث والواجهة الاحترافية\n📊 إحصائيات تفاعلية وكشف تفصيلي للأرباح\n🔒 ميزة الخصوصية الفورية والأيقونة الرسمية الجديدة",
-  "descriptionFr": "🚀 HANOUTY POS DZ — Version Gold v1.2.1\n✅ Correction complète de l'auto-update et interface Pro\n📊 Statistiques interactives et détails des profits\n🔒 Mode confidentialité et nouvelle icône officielle",
+  "version": "1.2.2", 
+  "descriptionAr": "🧪 تجربة نظام التحديث الجديد v1.2.2\nهذا مجرد فحص للتأكد من عمل زر التحميل بنجاح.",
+  "descriptionFr": "🧪 Test du système de mise à jour v1.2.2\nVérification du bouton de téléchargement.",
   "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/1.2.1/HANOUTY.POS.DZ.Setup.1.2.1-x64.exe",
   "releaseDate": "2026-04-19",
   "changes": [
-    "🛠️ إصلاح نظام التحديث: الزر الآن يعمل بشكل آلي كامل وبدون أخطاء",
-    "🎨 واجهة تثبيت جديدة: صور خلفية وبانر احترافي أثناء التثبيت",
-    "📊 إحصائيات تفاعلية: بطاقات ذكية مضيئة تتفاعل مع المستخدم في الواجهة الرئيسية",
-    "💰 تفاصيل الأرباح: إمكانية الضغط على الأرباح لمعرفة فائدة كل منتج داخل كل فاتورة بدقة",
-    "🔒 زر الخصوصية: إضافة زر لإخفاء وإظهار الإحصائيات الحساسة بلمسة واحدة",
-    "⚙️ استقرار تام: معالجة كافة الأخطاء السابقة وتحسين سرعة استجابة التقارير المالية"
+    "✅ فحص عمل الرابط",
+    "✅ فحص ظهور الإشعار"
   ]
 }
