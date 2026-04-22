@@ -1,15 +1,15 @@
 {
-  "version": "2.0.0",
-  "descriptionAr": "🚀 HANOUTY POS DZ — النسخة العملاقة v2.0.0\n✅ نظام تعدد الأنشطة المتطور (إدارة أكثر من محل في برنامج واحد)\n📄 إعادة تصميم شاملة للفواتير مع 5 أنماط احترافية ملكية\n👁️ نظام معاينة حية متطور وتحكم كامل في مكان ومحتوى الملاحظات",
-  "descriptionFr": "🚀 HANOUTY POS DZ — Major Release v2.0.0\n✅ Système Multi-Activités (Gérez plusieurs magasins)\n📄 Redesign complet des factures (5 Styles Professionnels)\n👁️ Aperçu en direct et contrôle total de la position des notes",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.0/HANOUTY.POS.DZ.Setup.2.0.0-x64.exe",
+  "version": "2.0.1",
+  "descriptionAr": "🚀 HANOUTY POS DZ — النسخة العملاقة v2.0.1\n✅ نظام تعدد الأنشطة المتطور (إدارة أكثر من محل في برنامج واحد)\n📄 إعادة تصميم شاملة للفواتير مع 5 أنماط احترافية ملكية\n👁️ نظام معاينة حية متطور وتحكم كامل في مكان ومحتوى الملاحظات",
+  "descriptionFr": "🚀 HANOUTY POS DZ — Major Release v2.0.1\n✅ Système Multi-Activités (Gérez plusieurs magasins)\n📄 Redesign complet des factures (5 Styles Professionnels)\n👁️ Aperçu en direct et contrôle total de la position des notes",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.01/HANOUTY.POS.DZ.Setup.2.0.1-x64.exe",
   "releaseDate": "2026-04-22",
   "changes": [
     "🏢 نظام تعدد الأنشطة (Multi-Activities): يمكنك الآن إضافة أكثر من نشاط تجاري ببيانات وقواعد بيانات منفصلة والتبديل بينهم بضغطة زر.",
     "🎨 ثورة في تصميم الفواتير: إضافة 5 أنماط (Styles) احترافية جديدة للفواتير (كلاسيكي، رسمي، مينيمال، غامق، ورسمي بلس) لتناسب جميع الأذواق.",
     "👁️ المعاينة الحية (Live Preview): نافذة جديدة تظهر لك شكل الفاتورة فوراً أثناء كتابة الملاحظات أو تغيير النمط قبل الطباعة.",
     "📝 تحكم كامل في الملاحظات: إمكانية كتابة ملاحظات مخصصة ورسالة شكر، مع التحكم في مكان ظهورها (أعلى، وسط، أو أسفل الفاتورة).",
-    "🚀 تحديث شامل للسرعة وتحسين أداء النظام عند التبديل بين الأنشطة المختلفة.",
-    "⚙️ استقرار كامل في التعرف على أسماء المحلات وضمان ظهور الشعار والبيانات الصحيحة لكل نشاط."
+    "🚀 تحسينات متقدمة في سرعة التجاوب وثبات الواجهة والبيانات.",
+    "⚙️ استقرار تام في التعرف على الأنشطة وتلقي التحديثات الجديدة."
   ]
 }
