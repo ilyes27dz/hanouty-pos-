@@ -2,7 +2,7 @@
   "version": "2.0.1",
   "descriptionAr": "🚀 HANOUTY POS DZ — النسخة العملاقة v2.0.1\n✅ نظام تعدد الأنشطة المتطور (إدارة أكثر من محل في برنامج واحد)\n📄 إعادة تصميم شاملة للفواتير مع 5 أنماط احترافية ملكية\n👁️ نظام معاينة حية متطور وتحكم كامل في مكان ومحتوى الملاحظات",
   "descriptionFr": "🚀 HANOUTY POS DZ — Major Release v2.0.1\n✅ Système Multi-Activités (Gérez plusieurs magasins)\n📄 Redesign complet des factures (5 Styles Professionnels)\n👁️ Aperçu en direct et contrôle total de la position des notes",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.01/HANOUTY.POS.DZ.Setup.2.0.1-x64.exe",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.1/HANOUTY.POS.DZ.Setup.2.0.1-x64.exe",
   "releaseDate": "2026-04-22",
   "changes": [
     "🏢 نظام تعدد الأنشطة (Multi-Activities): يمكنك الآن إضافة أكثر من نشاط تجاري ببيانات وقواعد بيانات منفصلة والتبديل بينهم بضغطة زر.",
