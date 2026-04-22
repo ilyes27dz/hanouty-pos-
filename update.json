@@ -1,15 +1,14 @@
 {
-  "version": "2.0.1",
-  "descriptionAr": "🚀 HANOUTY POS DZ — النسخة العملاقة v2.0.1\n✅ نظام تعدد الأنشطة المتطور (إدارة أكثر من محل في برنامج واحد)\n📄 إعادة تصميم شاملة للفواتير مع 5 أنماط احترافية ملكية\n👁️ نظام معاينة حية متطور وتحكم كامل في مكان ومحتوى الملاحظات",
-  "descriptionFr": "🚀 HANOUTY POS DZ — Major Release v2.0.1\n✅ Système Multi-Activités (Gérez plusieurs magasins)\n📄 Redesign complet des factures (5 Styles Professionnels)\n👁️ Aperçu en direct et contrôle total de la position des notes",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.1/HANOUTY.POS.DZ.Setup.2.0.1-x64.exe",
+  "version": "2.0.2",
+  "descriptionAr": "🚀 HANOUTY POS DZ — التحديث v2.0.2\n✅ إصلاح مشكلة التثبيت وإعادة التشغيل التلقائي بعد التحميل\n✅ إضافة ميزات تعديل وحذف الموردين والدفعات\n✅ تحسينات على نظام إدارة العملاء والبيانات",
+  "descriptionFr": "🚀 HANOUTY POS DZ — Mise à jour v2.0.2\n✅ Fix de l'installation auto et redémarrage des mises à jour\n✅ Ajout édition/suppression des fournisseurs et paiements\n✅ Améliorations de la gestion des clients et données",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.2/HANOUTY.POS.DZ.Setup.2.0.2-x64.exe",
   "releaseDate": "2026-04-22",
   "changes": [
-    "🏢 نظام تعدد الأنشطة (Multi-Activities): يمكنك الآن إضافة أكثر من نشاط تجاري ببيانات وقواعد بيانات منفصلة والتبديل بينهم بضغطة زر.",
-    "🎨 ثورة في تصميم الفواتير: إضافة 5 أنماط (Styles) احترافية جديدة للفواتير (كلاسيكي، رسمي، مينيمال، غامق، ورسمي بلس) لتناسب جميع الأذواق.",
-    "👁️ المعاينة الحية (Live Preview): نافذة جديدة تظهر لك شكل الفاتورة فوراً أثناء كتابة الملاحظات أو تغيير النمط قبل الطباعة.",
-    "📝 تحكم كامل في الملاحظات: إمكانية كتابة ملاحظات مخصصة ورسالة شكر، مع التحكم في مكان ظهورها (أعلى، وسط، أو أسفل الفاتورة).",
-    "🚀 تحسينات متقدمة في سرعة التجاوب وثبات الواجهة والبيانات.",
-    "⚙️ استقرار تام في التعرف على الأنشطة وتلقي التحديثات الجديدة."
+    "✅ إصلاح جذري لمشكلة التحديث التلقائي (زر إعادة التشغيل والتثبيت يعمل الآن بكفاءة وبشكل مباشر).",
+    "🚚 قسم الموردين: إضافة أزرار للحذف والتعديل على الموردين لتسهيل الإدارة.",
+    "💰 قسم الموردين (الدفوعات): يمكنك الآن تعديل أو حذف أي دفعة، وسيقوم النظام بتحديث رصيد المورد الكلي تلقائياً.",
+    "🏢 نظام تعدد الأنشطة (Multi-Activities): يعمل بشكل مستقر ومنفصل لعدة محلات.",
+    "🎨 ثورة في تصميم الفواتير: 5 أنماط احترافية مع المعاينة الحية والتحكم في مكان الملاحظات."
   ]
 }
