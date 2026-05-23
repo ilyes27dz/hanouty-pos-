@@ -1,10 +1,11 @@
 {
-  "version": "2.0.8",
-  "descriptionAr": "🚀 HANOUTY POS DZ — التحديث v2.0.8\n✅ تحسين صفحة الزبائن بفلاتر قوية واحترافية\n✅ إضافة عرض البطاقات وعرض القائمة مع زر تبديل\n✅ أيقونات احترافية بخلفيات ملونة لكل إجراء\n✅ ترتيب الزبائن حسب الدين والتاريخ والاسم",
-  "descriptionFr": "🚀 HANOUTY POS DZ — Mise à jour v2.0.8\n✅ Amélioration de la page clients avec filtres avancés\n✅ Vue liste et vue cartes avec bouton de basculement\n✅ Icônes professionnelles avec fonds colorés pour chaque action\n✅ Tri des clients par dette, date et nom",
-  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.8/HANOUTY.POS.DZ.Setup.2.0.8-x64.exe",
-  "releaseDate": "2026-05-04",
+  "version": "2.0.9",
+  "descriptionAr": "🚀 HANOUTY POS DZ — التحديث v2.0.9\n✅ أداة جديدة لمصالحة وتصحيح المخزون بناءً على المبيعات\n✅ تحسين صفحة الزبائن بفلاتر قوية واحترافية\n✅ إضافة عرض البطاقات وعرض القائمة مع زر تبديل\n✅ أيقونات احترافية بخلفيات ملونة لكل إجراء",
+  "descriptionFr": "🚀 HANOUTY POS DZ — Mise à jour v2.0.9\n✅ Nouvel outil de réconciliation et correction du stock basé sur les ventes\n✅ Amélioration de la page clients avec filtres avancés\n✅ Vue liste et vue cartes avec bouton de basculement\n✅ Icônes professionnelles avec fonds colorés",
+  "downloadUrl": "https://github.com/ilyes27dz/hanouty-pos-/releases/download/2.0.9/HANOUTY.POS.DZ.Setup.2.0.9-x64.exe",
+  "releaseDate": "2026-05-23",
   "changes": [
+    "📦 مصالحة المخزون: أداة جديدة قوية تتيح لك معاينة وتصحيح المخزون تلقائياً بناءً على المبيعات الحقيقية المسجلة (متوفرة باللغة الفرنسية بالكامل).",
     "👥 صفحة الزبائن — فلتر احترافي: إمكانية الفلترة حسب الحالة (الكل / مدانون / مسددون) مع أيقونات MUI احترافية.",
     "📊 ترتيب ذكي: ترتيب الزبائن حسب أعلى دين، أقل دين، الأحدث، الأقدم، أو الاسم أبجدياً.",
     "🔲 عرض مزدوج: زر تبديل بين عرض القائمة (صفوف) وعرض البطاقات (شبكة) مع تصميم مميز.",
